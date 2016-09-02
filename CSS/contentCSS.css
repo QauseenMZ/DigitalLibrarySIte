@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+body{
+	background: url(../Images/B3.jpeg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover ;
+	}
+	
+.Content {
+	height: 1530px;
+	width: 1200px;
+	padding: 10px;
+	margin-left: 45px;
+	margin-right: 45px;
+}

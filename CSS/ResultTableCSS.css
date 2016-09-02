@@ -1,0 +1,9 @@
+@charset "utf-8";
+#ResultTable {
+	overflow:scroll;
+	width: 1177px;
+	height: 530px;
+	border-top: 1px solid #B0B0B0;
+	border-left:1px solid #B0B0B0;
+	border-right:1px solid #B0B0B0;
+}
